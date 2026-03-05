@@ -91,19 +91,21 @@ Open Adobe Firefly. Generate images based on your creative brief, but remember: 
 Keep refining. Try at least two more meaningfully different directions.
 
 **Attempt 3:**  
-- **My prompt:**  
+- **My prompt:**  Make the spacecraft bigger and make the image dimensions like a sheet of paper, 8.5x11. DO NOT add additional things and do not remove any of the core features already here.
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:**  Spacecraft took up more of the image and the dimensions are correct.
+- **What didn't work:** It removed some of the features I liked, despite instruction not to. 
+- **What I'll change for next attempt:**  I'll ask for the clouds back.
 
 **Attempt 4:**  
-- **My prompt:**  
+- **My prompt:**  Generate a poster for a show called "The Expanse". The main focus should be a spacecraft fleeing, but parts of it are being corrupted by the blue fungus. The colors should be vibrant with the fungus being the accent color. It should be framed in a wide shot with the large alien portal in the background, not all of this should be in frame. The image should not feature characters in the foreground. 
 
-- **What worked:**  
-- **What didn't work:**  
+Keep the dimensions 8.5x11. Clouds should be in the background. The spaceship should not be more then 25% corrupted. Do not add in any text besides the title at the top. Do not make things too bright, most of the image should be darker. 
 
-**Final AI Image Selected:** (Which attempt? Why?)  
+- **What worked:**  It added clouds like asked and followed the instructions well. 
+- **What didn't work:**  It changed the style of the fungus, but otherwise it's good.
+
+**Final AI Image Selected:** (Which attempt? Why?)  4th attempt was the closest to what I want.
 
 ---
 
