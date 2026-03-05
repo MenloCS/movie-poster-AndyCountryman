@@ -30,35 +30,37 @@ At each step, save and commit your work in GitHub Desktop.
 Before you open any AI tools, plan your vision. This is your anchor—return to it after every AI generation.
 
 **Your Movie Choice:**  
-- **Movie Title:**  
-- **Why I chose this movie:**  
+- **Movie Title:** The Expanse 
+- **Why I chose this movie:** Haven't seen any posters for it and it has a lot of room for creativity. 
 
 **Core Emotion:**  
 What ONE feeling should a viewer get from your poster? (Examples: wonder, fear, joy, excitement, mystery, tension, nostalgia)  
-- **Core emotion:**  
+- **Core emotion:** Excitement 
 
 **Essential Visual Element:**  
 What ONE image, object, or visual MUST appear on your poster?  
-- **Essential element:**  
-- **Why this element:**  
+- **Essential element:** A space craft getting corrupted by the blue fungus. 
+- **Why this element:** Space craft are important throughout the entire series, and it creates an air of excitement. 
 
 **What NOT to Include:**  
 What do you definitely NOT want? (This helps you evaluate AI outputs critically.)  
-- **Avoid:**  
+- **Avoid:**  I do not want characters in front. 
 
 **Color Palette:**  
-- **Dominant color(s):**  
-- **Accent color(s):**  
+- **Dominant color(s):**  Black/Grey
+- **Accent color(s):**  Blue
 - **Overall mood:** (warm/cool/muted/vibrant/dark/bright)  
+Vibrent 
 
 **Composition:**  
 - [ ] Close-up (face/detail)  
-- [ ] Wide shot (landscape/setting)  
+- [X] Wide shot (landscape/setting)  
 - [ ] Medium shot (full figure)  
 - [ ] Object/symbol centered  
 - [ ] Character collage  
 
 - **Focal point description:**  
+A small spacecraft with the back being corrupted by the blue fungus. The spacecraft should be fleeing. In the background, it should depict the circular alien portal. 
 
 ---
 
