@@ -70,18 +70,18 @@ A small spacecraft with the back being corrupted by the blue fungus. The spacecr
 Open Adobe Firefly. Generate images based on your creative brief, but remember: you're exploring possibilities, not looking for a final answer.
 
 **Attempt 1:**  
-- **My prompt:**  
+- **My prompt:**  Generate a poster for a show called "The Expanse". The main focus should be a spacecraft fleeing, but parts of it are being corrupted by the blue fungus. The colors should be vibrant with the fungus being the accent color. It should be framed in a wide shot with the large alien portal in the background, not all of this should be in frame. The image should not feature characters in the foreground. 
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:**  It featured everything I asked for
+- **What didn't work:** It was too bright and added text I didn't ask for. The dimensions were square when I wanted something more poster shaped.
+- **What I'll change for next attempt:** Make it darker with darker primary colors.
 
 **Attempt 2:**  
-- **My prompt:**  
+- **My prompt:**  Make the dimensions more poster sized instead of square. The primary color should be darker with less blue. The spacecraft should be less corrupted. Remove the text other then the name, "the expanse".
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:**  It made the poster darker with the spacecraft less corrupted while removing all other text.
+- **What didn't work:** The dimensions didn't change and the spacecraft was made quite a bit smaller than expected. 
+- **What I'll change for next attempt:**  Make the spacecraft bigger and change the dimensions.  
 
 ---
 
